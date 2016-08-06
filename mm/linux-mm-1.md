@@ -69,7 +69,7 @@ Schematically we can imagine it as:
 |         memblock          |   |                           |
 |  _______________________  |   |                           |
 | |        memory         | |   |       Array of the        |
-| |      memblock_type    |-|-->|      membock_region       |
+| |      memblock_type    |-|-->|      memblock_region      |
 | |_______________________| |   |                           |
 |                           |   +---------------------------+
 |  _______________________  |   +---------------------------+
